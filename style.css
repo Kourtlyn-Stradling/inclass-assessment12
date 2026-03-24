@@ -36,6 +36,7 @@ h1 {
   display: block;
   font-size: 4.5em;
   color: #FF6F1C;
+  line-height: 1em;
   text-transform: uppercase;
   font-weight: 700;
 }
@@ -47,3 +48,27 @@ h2 {
   font-weight: 700;
 }
 
+.team {
+  display: flex;
+  justify-content: center;
+  height: 500px;
+  width: 100%;
+  font-size: 24px;
+  text-align: center;
+}
+
+.hannah {
+  background-color: #FFEFE6;
+}
+
+.danny {
+  background-color: #FFD2B8;
+}
+
+.tessa {
+  background-color: #FFB58A;
+}
+
+.jarrett {
+  background-color: #FF985C;
+}
