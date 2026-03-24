@@ -62,6 +62,7 @@ p {
 
 .team {
   display: flex;
+  flex-direction: row;
   justify-content: center;
   height: 500px;
   width: 100%;
@@ -73,14 +74,38 @@ p {
   background-color: #FFEFE6;
 }
 
+.hannah-img {
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+}
+
 .danny {
   background-color: #FFD2B8;
+}
+
+.danny-img {
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
 }
 
 .tessa {
   background-color: #FFB58A;
 }
 
+.tessa-img {
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+}
+
 .jarrett {
   background-color: #FF985C;
+}
+
+.jarrett-img {
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
 }
