@@ -3,3 +3,12 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+html {
+  font-family: "Vend Sans", Helvetica, sans serif;
+  font-size: 14px;
+}
+
+body {
+  margin: 0 auto;
+}
