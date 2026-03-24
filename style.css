@@ -7,8 +7,43 @@
 html {
   font-family: "Vend Sans", Helvetica, sans serif;
   font-size: 14px;
+  color: #000000;
 }
 
 body {
   margin: 0 auto;
 }
+
+nav {
+  width: 100%;
+  height: 75px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 0 45px;
+}
+
+main {
+  width: 75vw;
+  margin: 0 auto;
+}
+
+section {
+  margin-top: 75px;
+}
+
+h1 {
+  display: block;
+  font-size: 4.5em;
+  color: #FF6F1C;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+h2 {
+  display: block;
+  font-size: 2em;
+  color: #A8A8A8;
+  font-weight: 700;
+}
+
