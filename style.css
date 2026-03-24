@@ -117,9 +117,19 @@ p {
 .examples {
   display: flex;
   flex-direction: row;
-  justify-content: center;
+  justify-content: space-between;
 }
 
 .sets-img {
-  
+  width: 100%;
+}
+
+.couches-img {
+  width: 100%;
+  height: 249px;
+}
+
+.storage-img {
+  width: 100%;
+  height: 249px;
 }
