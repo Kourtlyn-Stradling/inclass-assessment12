@@ -48,6 +48,18 @@ h2 {
   font-weight: 700;
 }
 
+h3 {
+  font-size: 1.5em;
+  color: #1A0900;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+p {
+  color: #1A0900;
+  font-weight: 500;
+}
+
 .team {
   display: flex;
   justify-content: center;
