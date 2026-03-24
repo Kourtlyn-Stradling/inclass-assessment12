@@ -78,7 +78,7 @@ p {
   background-color: #FFEFE6;
   display: flex;
   justify-content: center;
-  
+  flex: 1;
 }
 
 .hannah-img {
@@ -92,6 +92,7 @@ p {
   background-color: #FFD2B8;
   display: flex;
   justify-content: center;
+  flex: 1;
 }
 
 .danny-img {
@@ -105,6 +106,7 @@ p {
   background-color: #FFB58A;
   display: flex;
   justify-content: center;
+  flex: 1;
 }
 
 .tessa-img {
@@ -118,6 +120,7 @@ p {
   background-color: #FF985C;
   display: flex;
   justify-content: center;
+  flex: 1;
 }
 
 .jarrett-img {
