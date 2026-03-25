@@ -154,8 +154,10 @@ p {
 }
 
 .examples p {
-  font-size: 3rem;
+  font-size: 2rem;
   font-style: italic;
+  color: #ffffff;
+  padding-right: 5px;
   position: relative;
   top: -50px;
   height: 15%
