@@ -139,6 +139,7 @@ p {
   flex: 1;
   height: 250px;
   overflow: hidden;
+  border-radius: 5px;
 }
 
 /* .examples div {
