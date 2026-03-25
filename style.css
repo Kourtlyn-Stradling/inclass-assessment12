@@ -113,8 +113,11 @@ p {
 .examples {
   display: flex;
   justify-content: space-between;
-  width: 250px;
-  height: 250px;
+}
+
+.examples div {
+  width: 100px;
+  height: 100px;
   overflow: hidden;
 }
 
