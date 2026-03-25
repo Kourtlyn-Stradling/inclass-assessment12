@@ -43,6 +43,7 @@ h1 {
   display: block;
   font-size: 4.5rem;
   color: #FF6F1C;
+  line-height: 5rem;
   text-transform: uppercase;
   font-weight: 700;
 }
@@ -120,8 +121,8 @@ p {
 }
 
 .examples div {
-  width: 100px;
-  height: 100px;
+  width: 150px;
+  height: 150px;
   overflow: hidden;
 }
 
