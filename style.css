@@ -151,6 +151,30 @@ footer {
   flex-wrap: wrap;
 }
 
+.foot-links a:link {
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: 300;
+}
+
+.foot-links a:visited {
+  color: #FF6F1C;
+  text-decoration: none;
+  font-weight: 300;
+}
+
+.foot-links a:hover {
+  color: #FFEFE6;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+.foot-links a:active {
+  color: #FFB58A;
+  text-decoration: none;
+  font-weight: bold;
+}
+
 .foot2 {
   display: flex;
   flex-direction: column;
@@ -163,4 +187,5 @@ footer {
   padding: 10px 15px;
   border-radius: 5px;
   font-weight: 700;
+  text-align: center;
 } 
