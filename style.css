@@ -188,9 +188,9 @@ footer {
   flex-wrap: wrap;
 }
 
-.footer-links a {
+/* .footer-links a {
   padding: 10px 0px;
-}
+} */
 
 .foot-links a:link {
   color: #ffffff;
@@ -225,6 +225,7 @@ footer {
 .button {
   background-color: #ffffff;
   color: #FF6F1C;
+  text-decoration: none;
   padding: 10px 15px;
   border-radius: 5px;
   font-weight: 700;
