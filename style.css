@@ -8,12 +8,14 @@ html {
   font-family: "Vend Sans", Helvetica, sans serif;
   font-size: 14px;
   color: #000000;
+  background-color: #ffffff;
 }
 
 body {
   margin: 0 auto;
 }
 
+}
 nav {
   width: 100%;
   height: 75px;
@@ -28,6 +30,7 @@ nav a {
   padding-left: 15px;
   color: #000000;
   font-weight: 500;
+  text-decoration: none;
 }
 
 main {
@@ -37,6 +40,12 @@ main {
 
 section {
   margin-top: 75px;
+}
+
+.intro {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
 }
 
 h1 {
@@ -69,6 +78,7 @@ p {
 
 .team h3 {
   margin-bottom: 15px;
+  color: #003C9D;
 }
 
 .members {
@@ -113,6 +123,10 @@ p {
 
 #jarrett {
   background-color: #FF985C;
+}
+
+.work h3 {
+  color: #003C9D;
 }
 
 .examples {
