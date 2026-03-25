@@ -123,8 +123,8 @@ p {
 }
 
 .examples div {
-  width: 150px;
-  height: 150px;
+  width: 200px;
+  height: 200px;
   overflow: hidden;
 }
 
@@ -138,7 +138,7 @@ p {
   font-size: 3rem;
   font-style: italic;
   position: relative;
-  top: 249px;
+  top: -25px;
   height: 15%
 }
 
