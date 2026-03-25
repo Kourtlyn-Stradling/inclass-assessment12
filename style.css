@@ -21,6 +21,7 @@ nav {
   justify-content: flex-end;
   align-items: center;
   padding: 0 50px;
+  background-color: #D1E3FF;
 }
 
 nav a {
@@ -74,80 +75,32 @@ p {
   text-align: center;
 }
 
-.hannah {
+.member {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  flex: 1;
+}
+
+#hannah {
   background-color: #FFEFE6;
-  display: flex;
-  justify-content: center;
-  flex: 1;
 }
 
-.hannah-img {
-  display: flex;
-  align-items: flex-end;
-  width: 50%;
-  height: auto;
-}
-
-.danny {
+#danny {
   background-color: #FFD2B8;
-  display: flex;
-  justify-content: center;
-  flex: 1;
 }
 
-.danny-img {
-  display: flex;
-  align-items: flex-end;
-  width: 50%;
-  height: auto;
-}
-
-.tessa {
+#tessa {
   background-color: #FFB58A;
-  display: flex;
-  justify-content: center;
-  flex: 1;
 }
 
-.tessa-img {
-  display: flex;
-  align-items: flex-end;
-  width: 50%;
-  height: auto;
-}
-
-.jarrett {
+#jarrett {
   background-color: #FF985C;
-  display: flex;
-  justify-content: center;
-  flex: 1;
-}
-
-.jarrett-img {
-  display: flex;
-  align-items: flex-end;
-  width: 50%;
-  height: auto;
 }
 
 .examples {
   display: flex;
   justify-content: space-between;
-}
-
-.sets-img {
-  width: 100%;
-  height: 249px;
-}
-
-.couches-img {
-  width: 100%;
-  height: 249px;
-}
-
-.storage-img {
-  width: 100%;
-  height: 249px;
 }
 
 .examples p {
