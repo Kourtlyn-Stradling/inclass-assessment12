@@ -85,13 +85,13 @@ p {
 }
 
 .member img {
-  width: 50%;
+  width: 100%;
+  max-width: 250px;
   height: auto;
 }
 
 .member p {
-  position: relative;
-  top: 20px;
+  margin-bottom: 50px;
 }
 
 #hannah {
@@ -113,11 +113,15 @@ p {
 .examples {
   display: flex;
   justify-content: space-between;
+  width: 250px;
+  height: 250px;
+  overflow: hidden;
 }
 
 .examples img {
   width: 100%;
   height: auto;
+  object-fit: cover;
 }
 
 .examples p {
