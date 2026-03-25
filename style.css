@@ -84,7 +84,7 @@ p {
 .member {
   display: flex;
   flex-direction: column;
-  justify-content: flex-start;
+  justify-content: flex-end;
   align-items: center;
   flex: 1;
 }
@@ -93,8 +93,6 @@ p {
   width: 100%;
   max-width: 250px;
   height: auto;
-  position: relative;
-  top: 500px;
 }
 
 .member p {
@@ -123,15 +121,14 @@ p {
 }
 
 .examples div {
-  width: 200px;
-  height: 200px;
+  min-width: 150px;
+  min-height: 150px;
   overflow: hidden;
 }
 
 .examples img {
   width: 100%;
   height: auto;
-  object-fit: cover;
 }
 
 .examples p {
